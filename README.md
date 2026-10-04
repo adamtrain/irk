@@ -6,10 +6,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/adamtrain/irk/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/adamtrain/irk/actions/workflows/ci.yml/badge.svg"></a>
   <img alt="Python 3.14+" src="https://img.shields.io/badge/python-3.14%2B-3776ab?logo=python&logoColor=white">
   <a href="https://github.com/astral-sh/uv"><img alt="uv" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json"></a>
   <a href="https://github.com/astral-sh/ruff"><img alt="Ruff" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json"></a>
   <img alt="Dependencies: none" src="https://img.shields.io/badge/dependencies-none-1fbf8f">
+  <a href="LICENSE"><img alt="License: CC0-1.0" src="https://img.shields.io/badge/license-CC0--1.0-lightgrey"></a>
 </p>
 
 <p align="center">
@@ -211,3 +213,7 @@ src/irk/
 ├── protocol.py  # parsing and encoding IRC lines, SASL payloads
 └── ui.py        # everything you see, and the link log
 ```
+
+## License
+
+[CC0 1.0](LICENSE). irk is dedicated to the public domain.

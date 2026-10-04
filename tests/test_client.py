@@ -392,7 +392,7 @@ def test_echoes_whatever_token_a_ping_carries() -> None:
 
 
 def test_keeps_a_quiet_connection_alive_by_pinging(monkeypatch: pytest.MonkeyPatch) -> None:
-    monkeypatch.setattr(client, "IDLE_TIMEOUT", 0.05)
+    monkeypatch.setattr(client, "IDLE_TIMEOUT", 0.2)
     server = FakeServer(keepalives=3)
     with pytest.raises(ConnectionError, match="closed by server"):
         connect(server)

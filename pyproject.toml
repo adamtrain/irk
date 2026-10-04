@@ -3,6 +3,8 @@ name = "irk"
 version = "0.1.0"
 description = "A tiny IRC client that sits in channels and prints the links you care about."
 readme = "README.md"
+license = "CC0-1.0"
+license-files = ["LICENSE"]
 authors = [
     { name = "Adam Train", email = "adam@adametrain.com" }
 ]
