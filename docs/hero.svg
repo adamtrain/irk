@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1016 477">
+<rect width="1016" height="477" rx="12" fill="#101219"/>
+<circle cx="30" cy="23" r="7" fill="#ff5f57"/>
+<circle cx="54" cy="23" r="7" fill="#febc2e"/>
+<circle cx="78" cy="23" r="7" fill="#28c840"/>
+<g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="20">
+<text x="26.0" y="66" textLength="12.2" fill="#1fbf8f">❯</text>
+<text x="38.2" y="66" textLength="134.2" fill="#e2e4ec">&#160;irk&#160;libera</text>
+<text x="26.0" y="93" textLength="12.2" fill="#7f8496">●</text>
+<text x="50.4" y="93" textLength="524.6" fill="#7f8496">watching&#160;for&#160;links&#160;to&#160;github.com,&#160;arxiv.org</text>
+<text x="26.0" y="120" textLength="12.2" fill="#7f8496">●</text>
+<text x="50.4" y="120" textLength="512.4" fill="#7f8496">logging&#160;links&#160;to&#160;/home/adam/irk/libera.log</text>
+<text x="26.0" y="147" textLength="12.2" fill="#7f8496">●</text>
+<text x="50.4" y="147" textLength="488.0" fill="#7f8496">connecting&#160;to&#160;irc.libera.chat:6697&#160;(tls)</text>
+<text x="26.0" y="174" textLength="12.2" fill="#7f8496">●</text>
+<text x="50.4" y="174" textLength="256.2" fill="#7f8496">authenticated&#160;as&#160;adam</text>
+<text x="26.0" y="201" textLength="12.2" fill="#7f8496">●</text>
+<text x="50.4" y="201" textLength="207.4" fill="#7f8496">connected&#160;as&#160;adam</text>
+<text x="26.0" y="228" textLength="12.2" fill="#7f8496">●</text>
+<text x="50.4" y="228" textLength="170.8" fill="#7f8496">joined&#160;#python</text>
+<text x="26.0" y="255" textLength="12.2" fill="#7f8496">●</text>
+<text x="50.4" y="255" textLength="146.4" fill="#7f8496">joined&#160;#rust</text>
+<text x="26.0" y="282" textLength="12.2" fill="#7f8496">●</text>
+<text x="50.4" y="282" textLength="158.6" fill="#7f8496">joined&#160;#linux</text>
+<text x="26.0" y="309" textLength="61.0" fill="#7f8496">21:14</text>
+<text x="111.4" y="309" textLength="85.4" fill="#fab83c">#python</text>
+<text x="221.2" y="309" textLength="109.8" fill="#78d0dc">alice&#160;&#160;&#160;&#160;</text>
+<text x="331.0" y="309" textLength="658.8" fill="#e2e4ec">&#160;&#160;https://github.com/astral-sh/uv/releases/tag/0.12.21</text>
+<text x="26.0" y="336" textLength="61.0" fill="#7f8496">21:17</text>
+<text x="111.4" y="336" textLength="85.4" fill="#1fbf8f">#rust&#160;&#160;</text>
+<text x="221.2" y="336" textLength="109.8" fill="#a871f7">ferris&#160;&#160;&#160;</text>
+<text x="331.0" y="336" textLength="573.4" fill="#e2e4ec">&#160;&#160;https://github.com/rust-lang/rust/pull/147210</text>
+<text x="26.0" y="363" textLength="61.0" fill="#7f8496">21:31</text>
+<text x="111.4" y="363" textLength="85.4" fill="#fab83c">#python</text>
+<text x="221.2" y="363" textLength="109.8" fill="#ff6e88">guido_fan</text>
+<text x="331.0" y="363" textLength="414.8" fill="#e2e4ec">&#160;&#160;https://arxiv.org/abs/1706.03762</text>
+<text x="26.0" y="390" textLength="61.0" fill="#7f8496">21:40</text>
+<text x="111.4" y="390" textLength="85.4" fill="#1fbf8f">#linux&#160;</text>
+<text x="221.2" y="390" textLength="109.8" fill="#7c83f7">tux&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text x="331.0" y="390" textLength="610.0" fill="#e2e4ec">&#160;&#160;https://gist.github.com/tux/8f3a1c2d9e4b5a6f7081</text>
+<text x="26.0" y="417" textLength="61.0" fill="#7f8496">21:52</text>
+<text x="111.4" y="417" textLength="85.4" fill="#1fbf8f">#rust&#160;&#160;</text>
+<text x="221.2" y="417" textLength="109.8" fill="#78d0dc">alice&#160;&#160;&#160;&#160;</text>
+<text x="331.0" y="417" textLength="573.4" fill="#e2e4ec">&#160;&#160;https://github.com/tokio-rs/tokio/issues/7104</text>
+<text x="26.0" y="444" textLength="61.0" fill="#7f8496">22:05</text>
+<text x="111.4" y="444" textLength="85.4" fill="#1fbf8f">#linux&#160;</text>
+<text x="221.2" y="444" textLength="109.8" fill="#f2506e">penguin&#160;&#160;</text>
+<text x="331.0" y="444" textLength="610.0" fill="#e2e4ec">&#160;&#160;https://github.com/torvalds/linux/commit/9c0e4a1</text>
+</g>
+</svg>

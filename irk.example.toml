@@ -1,0 +1,22 @@
+# Copy to ~/.config/irk/<name>.toml (say, libera.toml), chmod 600 it, then run: irk <name>
+
+host = "irc.libera.chat"
+nick = "your-nick"
+channels = ["#python", "#rust"]
+
+# Print links to these domains and their subdomains. Leave it out to print every link.
+domains = ["github.com", "youtube.com", "youtu.be"]
+
+# Also append every link printed to this file, as "<timestamp> <link>" lines.
+# log = "~/irk/libera.log"
+
+# Optional, shown with their defaults:
+# tls = true
+# port = 6697              # 6667 when tls = false
+# username = "your-nick"   # defaults to nick
+# realname = "your-nick"   # defaults to nick
+
+# Log in to your account with SASL PLAIN. Leave the table out to connect anonymously.
+[sasl]
+password = "your-password"
+# username = "your-nick"   # account name, defaults to nick
